@@ -7,5 +7,5 @@ Midi Foot Controller based on a Line6 FB4 footswitch.
 - Have Fun
 
 # ToDo
-- Add expresion Pedal inputs.
+- Add expression Pedal inputs.
 
